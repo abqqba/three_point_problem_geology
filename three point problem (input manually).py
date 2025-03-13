@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-# abqari was here 11/03/2025 45 minutes
+
 def get_point(name):
     x = float(input(f"\033[96mMasukkan koordinat X untuk {name}:\033[0m "))
     y = float(input(f"\033[96mMasukkan koordinat Y untuk {name}:\033[0m "))
