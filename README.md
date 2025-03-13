@@ -2,3 +2,6 @@
 
 # metnum
 tugas kuliah
+
+# 
+Vacher (2000)
